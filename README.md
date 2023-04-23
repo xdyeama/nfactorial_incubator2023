@@ -1,5 +1,5 @@
-This is the "Rock, Paper, Scissors War" game for the Nfactorial Incubator 2023 test task. 
-The game is based on popular worldwide Rock, Paper, Scissors but in the new format
+
+This is the "Rock, Paper, Scissors War" game made by Barlykov Beket for the Nfactorial Incubator 2023 test task. The game is based on popular worldwide Rock, Paper, Scissors but in the new format. The game is written on python with the help of pygame library.
 
 To run the game you need to install python version 3.9+ and pygame 2.3+. In order to correctly visualize all elements of the game, you need to download all the assets into the assets folder.
 
